@@ -2,8 +2,7 @@
 Kia ={"Sonet X":53190,
       "Sonet GTX":52485,
       "Sonet HTX":48465,
-      "Sonet HTK":40614
-
+      "Sonet HTK":4061
       }
 Audi ={"A1":113000,
        "A3":161000,
